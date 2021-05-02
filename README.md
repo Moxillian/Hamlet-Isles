@@ -6,3 +6,5 @@ Hamlet: https://store.steampowered.com/app/712640/Dont_Starve_Hamlet
 A mod that wants to port (and tweak) DS Hamlet to DST!
 
 Big hat tip ADM for letting us use his Turfs API
+
+Discord:https://discord.gg/gb5tdwTBSX
