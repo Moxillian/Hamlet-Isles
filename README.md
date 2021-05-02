@@ -24,7 +24,8 @@
 - Curse of the elders!
 
 You can find our Discord [here](https://discord.gg/gb5tdwTBSX)
-***Credits***
+
+***Credits:***
 > MasterMeley - Coder
 
 > Atobá Azul - Coder
