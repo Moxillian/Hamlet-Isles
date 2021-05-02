@@ -1,3 +1,5 @@
-## Welcome to Hamlet Isles Website!
+# Welcome to Hamlet Isles Website!
+### This is a fan project determined to add the DLC Hamlet into Don't Starve Together
 
-This is a fan project determined to add the DLC Hamlet into Don't Starve Together
+
+
