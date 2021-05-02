@@ -2,7 +2,7 @@
 ### This is a fan project determined to add the DLC Hamlet into Don't Starve Together
 
 **Current Roadmap**
-***SUBJECT TO CHANGES****
+> ***SUBJECT TO CHANGES***
 
 *Version 1.0*
 - Worldgen + Custom Turfs
@@ -36,9 +36,6 @@ You can find our Discord [here](https://discord.gg/gb5tdwTBSX)
 
 ***Credits:***
 > MasterMeley - Coder
-
 > Atobá Azul - Coder
-
 > Nickolai - Artist and Writer
-
 > Moxillian - Coder
