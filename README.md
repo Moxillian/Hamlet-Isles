@@ -35,6 +35,9 @@ You can find our Discord [here](https://discord.gg/gb5tdwTBSX)
 
 ***Credits:***
 > MasterMeley - Coder
+
 > Atobá Azul - Coder
+
 > Nickolai - Artist and Writer
+
 > Moxillian - Coder
