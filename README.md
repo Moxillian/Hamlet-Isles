@@ -23,21 +23,18 @@
 - Unimplemented Features Addition
 - Curse of the elders!
 
-Progress:
-- [ ] Worldgen + Custom Turfs
-- [ ] Custom Structures
-- [ ] Mobs
-- [ ] Poison
-- [ ] Cloud Textures
+**Progress:**
+- [ ]  Worldgen + Custom Turfs
+- [ ]  Custom Structures
+- [ ]  Mobs
+- [ ]  Poison
+- [ ]  Cloud Textures
 
 
 You can find our Discord [here](https://discord.gg/gb5tdwTBSX)
 
 ***Credits:***
 > MasterMeley - Coder
-
 > Atobá Azul - Coder
-
 > Nickolai - Artist and Writer
-
 > Moxillian - Coder
